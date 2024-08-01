@@ -40,6 +40,7 @@ by levzzz:
 
 by orangecat:
 - Intellij ClickGUI (code is a mess but it was a cool thing by orangecat)
+- Among Us Joke Update (https://youtu.be/QkLjOJEJmZ4)
 
 ## What's next?
 It might be time for us to quit minecraft client development and we'll never publish any more projects like that, but as of writing this (March 8th, 2024) we are working on a cross-version and possibly cross-edition client (using none of this codebase) just as a fun project, this time trying to maintain the quality of our code across the whole project.
